@@ -1,0 +1,14 @@
+<endpoints xmlns='http://java.sun.com/xml/ns/jax-ws/ri/runtime' version='2.0'>
+
+
+    <!--<endpoint-->
+            <!--name='HelloJava'-->
+            <!--implementation='example.HelloJava'-->
+            <!--url-pattern='/services/HelloJava'/>-->
+
+    <!--    <endpoint
+                name='HelloJava'
+                implementation='example.IHello'
+                url-pattern='/services/HelloJava'/> -->
+
+</endpoints>

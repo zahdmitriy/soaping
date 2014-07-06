@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Implementation-Title: JAX-WS Implementation
+Major-Version: 2.2.8
+Implementation-Version: 2.2.8
+Built-By: mghudson
+Class-Path: javax.annotation-api.jar jsr181-api.jar jaxb-api.jar jaxws
+ -api.jar javax.xml.soap-api.jar FastInfoset.jar gmbal-api-only.jar ha
+ -api.jar jaxb-core.jar jaxb-impl.jar management-api.jar mimepull.jar 
+ policy.jar resolver.jar saaj-impl.jar stax-ex.jar stax2-api.jar strea
+ mbuffer.jar woodstox-core-asl.jar
+Created-By: Apache Maven
+probe-provider-class-names: com.sun.xml.ws.transport.http.servlet.JAXW
+ SRIDeploymentProbeProvider
+Implementation-Vendor: Sun Microsystems Inc
+SVN-Revision: 13980
+Implementation-Vendor-Id: com.sun
+Build-Jdk: 1.6.0_35
+Build-Version: JAX-WS RI 2.2.8
+SVN-URL: scm:svn:https://svn.java.net/svn/jax-ws~sources/branches/jaxw
+ s22/jaxws-ri/bundles/jaxws-rt
+Specification-Title: The Java API for XML Web Services
+Specification-Version: 2.2
+Extension-Name: com.sun.xml.ws
+Build-Id: 2.2.8
+Archiver-Version: Plexus Archiver
+
